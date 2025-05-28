@@ -4,7 +4,7 @@
   "description": "A lightweight and efficient JavaScript utility library packed with commonly used helper functions like capitalize, debounce, deepClone, flattenArray, isPrime, and more. Ideal for developers who want a simple yet powerful toolkit to streamline everyday coding tasks.",
   "repository": {
     "type": "git",
-    "url": "premmern"
+    "url": "https://github.com/PremGChavan/snappy-utils"
   },
   "keywords": [
     "utilities",
