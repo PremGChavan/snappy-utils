@@ -1,0 +1,36 @@
+{
+  "name": "snappy-utils",
+  "version": "1.0.0",
+  "description": "A lightweight and efficient JavaScript utility library packed with commonly used helper functions like capitalize, debounce, deepClone, flattenArray, isPrime, and more. Ideal for developers who want a simple yet powerful toolkit to streamline everyday coding tasks.",
+  "repository": {
+    "type": "git",
+    "url": "premmern"
+  },
+  "keywords": [
+    "utilities",
+    "javascript",
+    "helper-functions",
+    "javascript",
+    "toolkit",
+    "utils",
+    "capitalize",
+    "debounce",
+    "deep-clone",
+    "flatten-array",
+    "date-format",
+    "is-prime",
+    "merge-objects",
+    "random-number",
+    "truncate-string",
+    "js-tools",
+    "lightweight-utils",
+    "frontend-utils"
+  ],
+  "license": "ISC",
+  "author": "Prem Chavan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
