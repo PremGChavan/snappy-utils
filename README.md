@@ -3,6 +3,9 @@
 
 A lightweight and efficient JavaScript utility library packed with commonly used helper functions like `capitalize`, `debounce`, `deepClone`, `flattenArray`, `isPrime`, and more. Designed to make everyday development easier and cleaner.
 
+![Screenshot](images/npmjs_sc.png)
+
+
 ---
 
 ## 🚀 Features
